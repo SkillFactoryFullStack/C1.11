@@ -13,9 +13,6 @@ When the timer expires, display the text on successful completion.
 In the code, you must use objects and a constructor function, or describe everything imperatively (as in the example above). 
 Using frameworks or a helper from the previous lessons, which you add your own methods, will be a plus =) 
 
-P.S. From the blank, you can take html and css without a twinge of conscience. You can "poke" an example and understand the basic logic of work. 
-You can refactor your code and add your own methods. You can understand the underlying logic and do better.
-
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Мы хотим написать примерно такое приложение: https://jsfiddle.net/v90zqtLf/2/ 
@@ -29,6 +26,4 @@ You can refactor your code and add your own methods. You can understand the unde
 В коде вы должны использовать объекты и функцию-конструктор, либо описать все императивно (как в примере выше). 
 Использование фреймворков или хэлпера из прошлых уроков, который вы дополните собственными методами, будет плюсом =) 
 
-P.S. Из заготовки можно без зазрения совести взять html и css. Можно "потыкать" пример и понять основную логику работы. 
-Можно рефакторить код и добавить собственные методы. Можно понять основную логику и сделать лучше.
 -----------------------------------------------------------------------------------------------------------------------------------
